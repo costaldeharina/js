@@ -17,22 +17,20 @@ disponible = true;
 
 disponible = false;
 
-// Inicializar multiples variables 
-var categoria = 'Computadora';
-marca = 'Marca famosa';
-calificacion = 9;
+//  // Inicializar multiples variables 
+// var categoria = 'Computadora';
+// marca = 'Marca famosa';
+// calificacion = 9;
 
-// Las variables no pueden iniciar con numeros  
-var 99dias;
-var dias99;
+// // Las variables no pueden iniciar con numeros  
+// var dias99;
 
-var 01_;
-var _01;
-var _usuario;
-var __usuario;
+// var _01;
+// var _usuario;
+// var __usuario;
 
 
-var nombreProducto;
-var nombre_producto;
-var NombreProducto;
+// var nombreProducto;
+// var nombre_producto;
+// var NombreProducto;
 
